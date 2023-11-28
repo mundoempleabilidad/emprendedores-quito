@@ -1,0 +1,526 @@
+[
+  {
+    "name": "Pizza Rappi",
+    "category": "Productos",
+    "date": "2020-06-10T06:20:55+06:00",
+    "owner": "Ana Vinueza",
+    "weight": 41,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/groups/1280745508679561/about"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59396 0106962&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/pizzarappi/"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/ANA_VINUEZA/ANA_Producto.jpg",
+      "/images/catalogo/productos/ANA_VINUEZA/ANA_Proceso.jpg",
+      "/images/catalogo/productos/ANA_VINUEZA/ANA.jpg"
+    ],
+    "description": "Mi padre siempre ha sido un gran apoyo para mí, ahora quiero apoyarlo también para seguir creciendo juntos. Mi emprendimiento es la oportunidad para seguir adelante, apoyándonos mutuamente y a la vez ofreciendo deliciosas pizzas con ingredientes de alta calidad que enamorarán a todos nuestros clientes. Con su apoyo podremos seguir llenando de deliciosos sabores cada hogar de la ciudad."
+  },
+  {
+    "name": "Azucena Confecciones",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Cristian Nuñez",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Azucena-Confecciones-102056248378762/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=5930984249156&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/tapiceriaclassic/"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/CRISTIAN/CRISTIAN_Producto.jpg",
+      "/images/catalogo/productos/CRISTIAN/CRISTIAN_Proceso.jpg",
+      "/images/catalogo/productos/CRISTIAN/CRISTIAN.jpg"
+    ],
+    "description": "Mi empresa surge ante la necesidad de crear prendas únicas de excelente calidad y a precios asequibles, luego de 10 años continuos de trabajo hemos logrado crecer, aumentar nuestro catálogo de productos ofreciendo a nuestros clientes la confianza que dan los productos de calidad. Junto con mi madre y mi hermana día a día buscamos innovar y satisfacer las expectativas de nuestros clientes, a quienes consideramos una familia."
+  },
+  {
+    "name": "Pijamas Térmicas",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Erika Verdesoto",
+    "weight": 51,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/groups/1280745508679561/about"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59396 0052937&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/abrigaditos_quito/"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/ERIKA_VERDESOTO/ERIKA_Producto.jpg",
+      "/images/catalogo/productos/ERIKA_VERDESOTO/ERIKA_Proceso.jpg",
+      "/images/catalogo/productos/ERIKA_VERDESOTO/ERIKA.jpg"
+    ],
+    "description": "Soy madre soltera, y luego de la llegada de mi hija he aprendido a afrontar nuevos retos, pero también he experimentado nuevas satisfacciones. He tenido que encontrar nuevas alternativas y una de ellas ha sido convertirme en emprendedora y descubrir que puedo salir adelante por mí misma. Mi emprendimiento significa una oportunidad de crecer en ámbitos como responsabilidad y liderazgo que con el tiempo espero poder enseñar a otras personas y hacer de mi emprendimiento una nueva fuente de empleo para otras mujeres como yo."
+  },
+  {
+    "name": "Costeñitas",
+    "category": "Productos",
+    "date": "2020-06-09T06:20:55+06:00",
+    "owner": "Isabel Huayambe",
+    "weight": 61,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Sabordeempanadas/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 8580328&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/empanadas_costenita/?hl=es-la"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel1.jpg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel2.jpg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel.jpg"
+    ],
+    "description": "Durante más de 30 años mi familia ha trabajado con productos elaborados a base de verde. Ahora tengo la gran responsabilidad de continuar con el legado familiar y como emprendedora estoy convencida de que lo lograré con productos de alta calidad al alcance de todo bolsillo, poniendo siempre en ellos todo el amor y dedicación que merecen nuestros clientes."
+  },
+  {
+    "name": "Comida de Mar",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Johan Bayas",
+    "weight": 1,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "#"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=593967940099&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "#"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JHOAN_BAYAS/JHOAN_BAYAS_Producto.jpg",
+      "/images/catalogo/productos/JHOAN_BAYAS/JHOAN_BAYAS_Proceso.jpg",
+      "/images/catalogo/productos/JHOAN_BAYAS/JHOAN_BAYAS.jpg"
+    ],
+    "description": "Durante años mi padre ha trabajado en los restaurantes de comida costeña más reconocidos de la ciudad, y ahora como mi socio trabaja haciendo las más deliciosas preparaciones, a las que acompañamos con una refrescante agua de guayusa, que realza el sabor natural de todas las comidas. Si quieres vivir una experiencia de sabores únicos, con nosotros encuentras la mejor opción."
+  },
+  {
+    "name": "Tapicería Classic",
+    "category": "Productos",
+    "date": "2020-06-11T06:20:55+06:00",
+    "owner": "Joel Díaz",
+    "weight": 21,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/TapiceriaClassic/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 5209098&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/tapiceriaclassic/"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JOEL_TAPICERIA/JOEL_Producto.jpg",
+      "/images/catalogo/productos/JOEL_TAPICERIA/JOEL_Proceso.jpg",
+      "/images/catalogo/productos/JOEL_TAPICERIA/JOEL.jpg"
+    ],
+    "description": "Hace tres años soy emprendedor, y he ido descubriendo que los límites los pone uno mismo. Actualmente en mi emprendimiento no solo trabajo yo, sino que puedo ofrecer trabajo a más personas, mejorando sus condiciones de vida y ofreciendo productos de calidad a nuestros clientes. Trabajamos con los mejores tapices nacionales e importados para todo tipo de auto. Dale una nueva vida a tu vehículo y disfruta del confort y belleza de nuestros diseños con Tapicería Classic."
+  },
+  {
+    "name": "Sisa Rani",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Johanna Pajuña",
+    "weight": 91,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Sisa-Rani-100358435166716/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 2606479&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JOHANNA/JOHANNA_Producto.jpg",
+      "/images/catalogo/productos/JOHANNA/JOHANNA_Proceso.jpg",
+      "/images/catalogo/productos/JOHANNA/JOHANNA.jpg"
+    ],
+    "description": "Sin duda la comida es felicidad, por eso veo mi emprendimiento como una forma de llevar felicidad a todos mis clientes con productos deliciosos, de los que uno siempre quiere un poco más. En Sisa Rani ofrecemos: Waffles, Helados, milk shakes, salchipapas, Papas Completas, Papi Pollo y Hamburguesas preparadas con la seguridad de que nuestros clientes siempre regresarán. Gracias a este emprendimiento he aprendido a ser más segura de mi misma, a socializar y ofrecer una sonrisa a todas las personas que me rodean. Poder emprender ha sido siempre mi sueño y al verlo hecho realidad mi corazón se llena de una felicidad que se demuestra en todos mis productos."
+  },
+  {
+    "name": "Precius",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Jonathan Andrade",
+    "weight": 71,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/precius96"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 8745682&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/creacionesprecius/?hl=es-la"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JONATAN_ROPA/JONATAN_Producto.jpg",
+      "/images/catalogo/productos/JONATAN_ROPA/JONATAN_Venta.jpg",
+      "/images/catalogo/productos/JONATAN_ROPA/JONATAN.jpg"
+    ],
+    "description": "Mi emprendimiento nació por una necesidad de elaborar prendas cómodas a mi sobrina utilizando materia prima de calidad y con diseños atractivos y generar un ingreso económico para poder continuar con mis estudios universitarios. El secreto para el éxito de mi emprendimiento ha sido no tener miedo a mostrar al mundo algo que me apasiona hacer y desafiarme a mí mismo a generar ideas y que estás se conviertan en fuentes de empleo que mejore las condiciones de vida de otras personas."
+  },
+  {
+    "name": "Jonantex",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Jonathan Terán",
+    "weight": 111,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://m.facebook.com/Distribuidora-Jorgito-104303011485482/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59393 9090022&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JONATHAN_TERAN/JONATHAN_Producto.jpg",
+      "/images/catalogo/productos/JONATHAN_TERAN/JONATHAN_Maquina.jpg",
+      "/images/catalogo/productos/JONATHAN_TERAN/JONATHAN.jpg"
+    ],
+    "description": "Al enfrentar grandes retos en la vida, hay que pensar en grandes soluciones, y el emprendimiento para mí ha sido la mejor respuesta en todo momento. Junto con mi familia nos dedicamos a la producción de medias al por mayor y menos para todo tipo de ocasión, además contamos con diseños personalizados de logos, nombres e imágenes para instituciones y equipos de fútbol. En Jonantex usted lo imagina, nosotros lo hacemos realidad."
+  },
+  {
+    "name": "Abarrotes JP",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Jorge Pullopaxi",
+    "weight": 121,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Abarrotes-JP-109015524339564/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 5625863&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JORGE/JORGE_Producto.jpg",
+      "/images/catalogo/productos/JORGE/JORGE_Proceso.jpg",
+      "/images/catalogo/productos/JORGE/JORGE.jpg"
+    ],
+    "description": "Abarrotes JP es un negocio familiar con el fin de ayudar a familias de bajos recursos ofreciéndoles productos a bajos costos y a crédito para que así las personas tengan mayor facilidad de adquirir los alimentos básicos para su familia, este emprendimiento significa mucho para mí por eso quiero seguir sacándolo adelante ya que ha sido de ayuda para mi familia y una forma de seguir adelante en medio de las circunstancias que estamos viviendo, ayudando a su vez a otras familias."
+  },
+  {
+    "name": "Distribuidora Jorgito",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Josué Puruncajas",
+    "weight": 101,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://m.facebook.com/Distribuidora-Jorgito-104303011485482/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59398 4405812&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JOSUE/JOSUE_Producto.jpg",
+      "/images/catalogo/productos/JOSUE/JOSUE_Venta.jpg",
+      "/images/catalogo/productos/JOSUE/JOSUE.jpg"
+    ],
+    "description": "Emprender no significa no tener miedo, sino avanzar a pesar de él, y en el camino ir descubriendo que siempre que tengamos decisión y valentía, podremos lograr nuestros objetivos, y uno de los objetivos más importantes para mi es poder ayudar a mi familia y mi esposa, por lo que emprender ha sido la mejor alternativa para ello. En distribuidora Jorgito ofrecemos todo lo relacionado con higiene y limpieza para el hogar a precios muy económicos, pues en estos tiempos la salud depende de la limpieza, por lo que los bajos precios son la mejor forma de ayudar a mi comunidad y a su vez poder tener un ingreso para el sustento de mi familia."
+  },
+  {
+    "name": "Tilapias",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Melany Guachamin",
+    "weight": 81,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Las-Tilapias-limpias-adobadas-y-fritas-100701461850084/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 2763388&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/creacionesprecius/?hl=es-la"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/MELANY_TILAPIAS/MELANY_Producto.jpg",
+      "/images/catalogo/productos/MELANY_TILAPIAS/MELANY_Proceso.jpg",
+      "/images/catalogo/productos/MELANY_TILAPIAS/MELANY.jpg"
+    ],
+    "description": "Con mi madre siempre hemos luchado por salir adelante, y el emprendimiento ha sido una nueva oportunidad para lograrlo, pues nos muestra que con esfuerzo y dedicación se puede lograr lo que sea. Ofrezco pescado tilapia limpia y adobada a $2 la libra o tilapia frita acompañado de arroz, yuca y encurtido a tan solo $3. Las entregas lo hacemos a domicilio o también contamos con un local en el sector de Atucucho, al que están todos cordialmente invitados para probar el delicioso sabor de nuestros productos."
+  },
+  {
+    "name": "Helados Deliciosos",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Mireya Mosquera",
+    "weight": 141,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Delicias-Coste%C3%B1as-111752540614931/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59396 3370758&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/MIREYA/MIREYA_Producto.jpg",
+      "/images/catalogo/productos/MIREYA/MIREYA_Venta.jpg",
+      "/images/catalogo/productos/MIREYA/MIREYA.jpg"
+    ],
+    "description": "Me gusta pasar tiempo con mi familia en las tardes de sol y siempre acompañamos estos bellos momentos con un helado delicioso, y cuanto más si es de sabores que no hemos probado. En la variedad está el gusto, por lo que ofrecemos una enorme variedad de sabores únicos como aguacate, jengibre, linaza y muchos más. Descúbrelos con nosotros en el sector de Guamaní, un gran sabor con mucha innovación."
+  },
+  {
+    "name": "Home Made Bread",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Ruth Saraguro",
+    "weight": 11,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/115175066935760?referrer=whatsapp"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59396 2699960&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "#"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/RUTH_PANADERIA/Ruth_Producto.jpg",
+      "/images/catalogo/productos/RUTH_PANADERIA/RUTH.jpg",
+      "/images/catalogo/productos/RUTH_PANADERIA/Ruth_Proceso.jpg"
+    ],
+    "description": "&quot;Home Made Bread&quot; es un emprendimiento que nació con el objetivo de brindar un producto artesanal y con el delicioso sabor de casa a la puerta del hogar de cada familia interesada en el consumo de tortas, pan, galletas, postres entre otros productos artesanales de repostería y panadería enfocándonos siempre en la satisfacción de nuestros distinguidos clientes. Para mi este emprendimiento tiene un gran valor sentimental y profesional ya que no sólo es un apoyo para mi carrera de gastronomía sino un aporte más para los gastos familiares. Además, me siento agradecida que la fundación Children Internacional por su apoyo incondicional en el proceso de crecimiento de mi emprendimiento y el de los demás emprendedores del programa."
+  },
+  {
+    "name": "Delicias Costeñas",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Solange Rogel",
+    "weight": 131,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Delicias-Coste%C3%B1as-111752540614931/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 2831551&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/SOLANGE_EMPANADAS/SOLANGE_Producto.jpg",
+      "/images/catalogo/productos/SOLANGE_EMPANADAS/SOLANGE_Proceso.jpg",
+      "/images/catalogo/productos/SOLANGE_EMPANADAS/SOLANGE.jpg"
+    ],
+    "description": "Un emprendedor siempre ve los desafíos como oportunidades para crecer, y esta ha sido mi oportunidad, por medio de la venta de deliciosos platos de la costa puedo contribuir a la economía de mi hogar y en un futuro poder ofrecer nuevas fuentes de empleo para personas que lo necesiten manteniendo viva la tradición de una cocina que deleita el paladar de todos los que la prueban, haciendo de las crisis una oportunidad para crecer."
+  },
+  {
+    "name": "Fotografiarte",
+    "category": "Servicios",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "José Secaira",
+    "weight": 1,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/115175066935760?referrer=whatsapp"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=593978685610&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/fotografiarte_ec/"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/servicios/Jose_Secaira/Editar2.jpg",
+      "/images/catalogo/servicios/Jose_Secaira/Editar3.jpg",
+      "/images/catalogo/servicios/Jose_Secaira/Editar.jpg"
+    ],
+    "description": "La fotografía se ha consolidado como una herramienta potente aplicada a muchos campos. Podemos inmortalizar momentos hermosos que quisiéramos vivir una y otra vez, expresar sentires e incluso mostrar la mejor cara de nuestros productos invitando a clientes potenciales a consumirlos. Todas estas facetas de la fotografía las trabajo creando sesiones de fotos que congelan en el tiempo momentos hermosos, cubriendo eventos importantes o realizando catálogos web con una fotografía de producto insuperable."
+  },
+  {
+    "name": "Persat",
+    "category": "Servicios",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Mishell Salazar",
+    "weight": 11,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/persat.23/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59399 8110702&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/persat23?igshid=sa6ghdknopss"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/Persat23?s=08"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/servicios/Mishell/PersatProductos.jpg",
+      "/images/catalogo/servicios/Mishell/PersatEspaciodeTrabajo.jpg",
+      "/images/catalogo/servicios/Mishell/PersatEmprendedora.jpg"
+    ],
+    "description": "Persat es un emprendimiento enfocado en el Diseño Gráfico que nace a partir de la personalización de productos como regalos, sublimación y tejido por lo que hoy en día hay diversos gustos y queremos llegar a satisfacer las necesidades de cada persona brindando un producto personalizado y de calidad. El poder plasmar mis diseños siento que es un sueño realizado que me permite avanzar y seguir creciendo con el emprendimiento, me hace una persona muy feliz darme cuenta que si uno quiere conseguir algo con persistencia y dedicación lo puedes lograr."
+  },
+  {
+    "name": "Sarocela Style",
+    "category": "Servicios",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Jemima Saraguro",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/111021187265392/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59398 3478429&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/persat23?igshid=sa6ghdknopss"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/Persat23?s=08"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/servicios/JEMIMA_BELLEZA/JEMIMA_Producto.jpg",
+      "/images/catalogo/servicios/JEMIMA_BELLEZA/JEMIMA_1.jpg",
+      "/images/catalogo/servicios/JEMIMA_BELLEZA/JEMIMA_2.jpg"
+    ],
+    "description": "La imagen es el componente más importante de la impresión que causamos en otras personas. Este es un proyecto que surge de la necesidad que tenemos de mostrar y resaltar nuestra belleza física sin tener que salir de casa. Contamos con servicio de peluquería tanto de hombres como de mujeres sin límite de edad, además ofrecemos servicio de manicure, pedicura, uñas acrílicas, depilaciones y limpiezas faciales, asesorando siempre a nuestros clientes porque las necesidades de cada uno son diferentes. Contamos con los mejores productos que también pueden ser adquiridos por nuestros clientes por medio de nuestro catálogo web."
+  },
+  {
+    "name": "Peluquería Canina Chooper",
+    "category": "Servicios",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Vanessa Puruncajas",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://m.facebook.com/Peluqueria-Canina-Chooper-2323122644387987/"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=59398 7245493&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/fotografiarte_ec/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/Persat23?s=08"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/servicios/VANESSA/VANESSA_1.jpg",
+      "/images/catalogo/servicios/VANESSA/VANESSA_2.jpg"
+    ],
+    "description": "Sin duda las mascotas son parte de nuestra familia, por lo que siempre queremos darles lo mejor, y lo mejor lo encuentras en Chooper. Nos ocupamos del cuidado médico y estético de los peluditos manteniendo los mejores precios y una atención de calidad garantizada. Tenemos a la venta alimento, accesorios, juguetes y todo lo que necesitas para que tu mascota sea la más feliz del mundo. Te invitamos a ser parte de la familia Chooper y vivir la experiencia que no has encontrado antes."
+  }
+]
