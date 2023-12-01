@@ -7,12 +7,14 @@ import './App.scss'
 
 function App() {
   return (
-    <Router>
+    <>
       <DataProvider>
-        <Pages />
+        <Router>
+          <Pages />
+        </Router>
       </DataProvider>
       <Footer />
-    </Router>
+    </>
   );
 }
 
