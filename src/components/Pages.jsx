@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import { Home } from "./Home";
 import { Directorio } from "./Directorio";
-import { Details } from "./emprendedores/detalle";
+import { Detalle } from "./emprendedores/Detalle";
 
 export const Pages = () => {
   return (
@@ -9,7 +9,7 @@ export const Pages = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/directorio" element={<Directorio />} />
-        <Route path="/directorio/:name" element={<Details />} />
+        <Route path="/directorio/:name" element={<Detalle />} />
       </Routes>
     </section>
   );

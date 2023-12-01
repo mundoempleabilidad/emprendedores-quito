@@ -5,7 +5,7 @@ import Carousel from "react-bootstrap/Carousel";
 import { FaFacebook, FaWhatsapp, FaInstagram, FaTwitter } from "react-icons/fa";
 import Detailsbar from "../Detailsbar";
 
-export const Details = () => {
+export const Detalle = () => {
   const value = useContext(DataContext);
   const [detalle, setDetalle] = useState(null);
   const params = useParams();
