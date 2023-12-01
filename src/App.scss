@@ -519,6 +519,25 @@ form,
   padding: 48px 38px;
   background-color: #e5e9f2;
   width: 100%;
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.title-emprendedores {
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0 0 0;
+    padding: 0;
+  }
 }
 
 // cards
