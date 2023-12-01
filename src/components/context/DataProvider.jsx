@@ -6,22 +6,13 @@ export const DataContext = createContext();
 
 export const DataProvider = ({ children }) => {
   const [data, setData] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [name, setName] = useState("");
   const [category, setCategory] = useState("");
 
   useEffect(() => {
-    fetchData().then((result) => {
-      setData(result);
-      setLoading(false);
-    });
+    setData(Data);
   }, []);
 
-  const fetchData = async () => {
-    const response = await Data;
-    return response;
-  };
-  
   const searchName = (searchTerm) => {
     const filteredData = Data.filter((emprendedor) =>
       emprendedor.name.toLowerCase().includes(searchTerm.toLowerCase())
@@ -42,12 +33,12 @@ export const DataProvider = ({ children }) => {
   };
 
   const resetData = () => {
+    console.log("Reset data");
     setData(Data);
   };
 
   const value = {
     data,
-    loading,
     name: [name, setName],
     category: [category, setCategory],
     searchName,

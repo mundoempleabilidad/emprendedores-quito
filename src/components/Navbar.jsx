@@ -34,7 +34,7 @@ function ColorSchemesExample() {
           fixed="top"
         >
           <Container>
-            <Navbar.Brand href="#home">
+            <Navbar.Brand href="/">
               <img
                 alt=""
                 src={LightLogo}
@@ -68,7 +68,7 @@ function ColorSchemesExample() {
           fixed="top"
         >
           <Container>
-            <Navbar.Brand href="#home">
+            <Navbar.Brand href="/">
               <img
                 alt=""
                 src={DarkLogo}
