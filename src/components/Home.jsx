@@ -4,7 +4,7 @@ import About from "../assets/images/about.jpg";
 import ColorSchemesExample from "./Navbar";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faTwitter, faInstagram, faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { Emprendedor } from "./emprendedores/emprendedor";
+import { Emprendedor } from "./emprendedores/Emprendedor";
 
 export const Home = () => {
   const { data } = useContext(DataContext);

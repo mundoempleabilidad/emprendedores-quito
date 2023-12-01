@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import { Home } from "./Home";
 import { Directorio } from "./Directorio";
-import { Detalle } from "./emprendedores/detalle";
+import { Detalle } from "./emprendedores/Detalle";
 
 export const Pages = () => {
   return (

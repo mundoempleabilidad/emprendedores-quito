@@ -1,5 +1,5 @@
 
-import { Emprendedores } from "./emprendedores/index";
+import { Emprendedores } from "./emprendedores/Index";
 import Statebar from "./Statebar";
 
 export const Directorio = () => {
