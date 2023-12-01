@@ -4,11 +4,14 @@ import { Emprendedor } from "./emprendedor";
 
 export const Emprendedores = () => {
   const value = useContext(DataContext);
+  const emprendedoresOrdenados = [...value.data].sort((a, b) =>
+    a.name.localeCompare(b.name)
+  );
 
   return (
     <>
       <div className="cards">
-        {value.data.map((emprendedor) => (
+        {emprendedoresOrdenados.map((emprendedor) => (
           <Emprendedor
             key={emprendedor.name}
             photo={emprendedor.photo}

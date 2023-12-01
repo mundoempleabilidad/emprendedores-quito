@@ -18,7 +18,7 @@ export const Sidebar = () => {
 
   return (
     <div className="sidebar_section">
-      <form>
+      <form className="sidebar_form">
         <Input.Search
           className="ant-input-search"
           placeholder="Search for name..."
