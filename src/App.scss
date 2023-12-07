@@ -665,6 +665,7 @@ form,
 
 .carousel-item {
   height: 550px;
+  width: 100vw;
   object-fit: cover;
   @media (max-width: 768px) {
     height: 200px;
