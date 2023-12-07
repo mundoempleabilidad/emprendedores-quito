@@ -3,8 +3,13 @@
   src: url("./assets/fonts/Satisfy/Satisfy-Regular.ttf");
 }
 
+@font-face {
+  font-family: 'Martel';
+  src: url("./assets/fonts/Martel/Martel-Regular.ttf");
+}
+
 body {
-  font-family: 'Martel', sans-serif;
+  font-family: 'Martel', serif;
 }
 
 /* Estilos para el elemento con clase 'nav' */
@@ -691,6 +696,7 @@ form,
   background-color: #e5e9f2;
   width: 100%;
   font-size: 16px;
+  font-family: 'Martel', serif;
 }
 
 .social-media.details {
