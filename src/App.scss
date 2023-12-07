@@ -688,6 +688,10 @@ form,
   @media (max-width: 768px) {
     height: 200px;
     object-fit: cover;
+    img {
+      height: 200px;
+      width: 100vw;
+    }
   }
 }
 
