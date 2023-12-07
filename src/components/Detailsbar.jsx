@@ -1,4 +1,4 @@
-import { Navbar, Container } from "react-bootstrap";
+import { Navbar, Nav, Container } from "react-bootstrap";
 import DarkLogo from "../assets/images/main-logo.svg";
 
 function Detailsbar() {
@@ -22,6 +22,12 @@ function Detailsbar() {
               className="d-inline-block align-top"
             />
           </Navbar.Brand>
+          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+          <Navbar.Collapse id="responsive-navbar-nav">
+            <Nav>
+              <Nav.Link href="/directorio">Directorio</Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
         </Container>
       </Navbar>
     </>
