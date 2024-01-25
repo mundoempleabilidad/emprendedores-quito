@@ -97,13 +97,13 @@ body {
 }
 
 .vl.light {
-  border-left: 1px solid #000;
+  border-left: 1px solid #fff;
     height: 30px;
     margin-left: 20px;
     margin-right: 20px;
 
     @media (max-width: 768px) {
-      border: 1px solid #000;
+      border: 1px solid #fff;
       width: 300px;
       height: 1px;
       margin: 0;
@@ -208,17 +208,26 @@ body {
 
 /* Estilos para los enlaces en el tema light */
 .navbar[data-bs-theme="light"] .container .me-auto .nav-link {
-  color: black;
+  color: #fff;
   background-color: transparent;
   text-align: center;
   /* Alineación centrada para los enlaces del Light Navbar */
   transition: color 0.3s, background-size 0.3s, background-color 0.3s;
 }
 
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: #901f61 !important;
+}
+
+[data-bs-theme="light"] .navbar-toggler-icon {
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
 .underline-link {
   position: relative;
   text-decoration: none;
-  color: #fa0303;
+  color: #fff;
   transition: all 0.3s;
 }
 
@@ -229,7 +238,7 @@ body {
   left: 50%;
   width: 0;
   height: 2px;
-  background-color: #fa0303;
+  background-color: #fff;
   transition: all 0.3s;
 }
 
@@ -248,6 +257,8 @@ body {
   background-color: transparent;
   box-shadow: none;
 }
+
+
 
 /* Home page */
 .main_container {
