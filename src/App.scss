@@ -116,12 +116,12 @@ body {
 
 /* Estilos para los enlaces cuando están en la página de inicio (negro) en el tema dark */
 .navbar[data-bs-theme="dark"] .nav-link[href="#home"] {
-  color: black;
+  color: #fff;
 }
 
 /* Estilo para los enlaces cuando se inicia la navegación (negro) en el tema dark */
 .scrolling .navbar[data-bs-theme="dark"] .nav-link {
-  color: black;
+  color: #fff;
 }
 
 /* Animación para el subrayado de los enlaces en el tema dark */
