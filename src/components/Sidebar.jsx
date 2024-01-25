@@ -21,7 +21,7 @@ export const Sidebar = () => {
       <form className="sidebar_form">
         <Input.Search
           className="ant-input-search"
-          placeholder="Search for name..."
+          placeholder="Buscar por nombre..."
           style={{
             width: 300,
           }}
@@ -32,7 +32,7 @@ export const Sidebar = () => {
         <Select
           className="ant-select-selection"
           showSearch
-          placeholder="Filter by Category"
+          placeholder="Buscar por categoría"
           optionFilterProp="children"
           onChange={filterCategory}
           onSearch={resetData}
@@ -43,8 +43,8 @@ export const Sidebar = () => {
           }}
           options={[
             {
-              value: "All categories",
-              label: "All categories",
+              value: "Todas las categorías",
+              label: "Todas las categorías",
             },
             {
               value: "Productos",
