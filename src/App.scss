@@ -217,7 +217,7 @@ body {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: #901f61 !important;
+  background-color: #150240 !important;
 }
 
 [data-bs-theme="light"] .navbar-toggler-icon {
@@ -377,7 +377,7 @@ body {
     margin-bottom: 8px;
     padding: 4px;
     a {
-      color: #901f61;
+      color: #150240;
       text-decoration: none;
     }
   }
@@ -400,7 +400,7 @@ body {
       margin-bottom: 8px;
       padding: 0 20px;
       a {
-        color: #901f61;
+        color: #150240;
         text-decoration: none;
       }
     }
@@ -460,8 +460,8 @@ body {
 .btn.btn-primary:hover,
 .btn.btn-primary:active {
   align-self: flex-start;
-  background-color: #901f61;
-  border-color: #901f61;
+  background-color: #150240;
+  border-color: #150240;
   margin: 0 20px;
 }
 
@@ -471,7 +471,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #901f61;
+  background-color: #150240;
   color: #fff;
   padding: 16px 0;
   width: 100%;
@@ -488,7 +488,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  background-color: #901f61;
+  background-color: #150240;
   color: #fff;
   padding: 16px 0;
   width: 100%;
@@ -498,7 +498,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-color: #901f61;
+    background-color: #150240;
     color: #fff;
     padding: 16px 20px;
     width: 100%;
@@ -530,7 +530,7 @@ form,
 
 .btn.btn-primary.submit {
   margin: 10px 0;
-  background-color: #901f61;
+  background-color: #150240;
   border-color: #3c4858;
 }
 
@@ -543,7 +543,7 @@ form,
   align-items: center;
   margin: 0 120px;
   padding: 48px 38px;
-  background-color: #e5e9f2;
+  background-color: #78e0e6;
   width: 100%;
   @media (max-width: 768px) {
     display: flex;
@@ -626,16 +626,16 @@ form,
   align-items: center;
   margin: 20px;
   width: 90%;
-  border-color: #901f61;
+  border-color: #150240;
   background-color: #fff;
   a {
-    color: #901f61;
+    color: #150240;
     text-decoration: none;
   }
 }
 
 .btn.btn-primary.ver__mas:hover {
-  background-color: #901f61;
+  background-color: #150240;
   margin: 20px;
   a {
     color: #fff;
@@ -673,7 +673,7 @@ form,
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background-color: #e5e9f2;
+  background-color: #78e0e6;
   width: 100%;
 }
 
@@ -685,7 +685,7 @@ form,
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #e5e9f2;
+  background-color: #78e0e6;
   width: 100%;
 }
 
@@ -723,7 +723,7 @@ form,
   align-items: center;
   margin: 20px;
   padding: 20px;
-  background-color: #e5e9f2;
+  background-color: #78e0e6;
   width: 100%;
   font-size: 16px;
   font-family: 'Martel', serif;
@@ -781,14 +781,14 @@ form,
 }
 
 .ant-btn.css-dev-only-do-not-override-qgg3xn.ant-btn-primary.ant-input-search-button {
-  background-color: #901f61;
-  border-color: #901f61;
+  background-color: #150240;
+  border-color: #150240;
 }
 
 // Statebar
 
 .statebar {
-  box-shadow: 0 0 20px #e5e9f2;
+  box-shadow: 0 0 20px #78e0e6;
 }
 
 .navbar-expand-lg .navbar-collapse {
