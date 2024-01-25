@@ -1,4 +1,5 @@
 
+import InfoLogo from "../assets/images/inverted-logo.svg";
 export const Footer = () => {
   return (
     <section className="footer-section">
@@ -11,6 +12,9 @@ export const Footer = () => {
             </li>
             <li>
               <a href="#emprendedores">Emprendedores Destacados</a>
+            </li>
+            <li>
+              <img src={InfoLogo} alt="info-logo" />
             </li>
           </ul>
         </div>

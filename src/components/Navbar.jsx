@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
-import DarkLogo from "../assets/images/main-logo.svg";
-import LightLogo from "../assets/images/inverted-logo.svg";
+import DarkLogo from "../assets/images/logos/Color-remove.png";
+import LightLogo from "../assets/images/logos/Color-transparent.png";
 
 function ColorSchemesExample() {
   const [showDarkNavbar, setShowDarkNavbar] = useState(true);
