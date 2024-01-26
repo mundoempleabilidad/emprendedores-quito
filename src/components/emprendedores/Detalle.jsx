@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import Carousel from "react-bootstrap/Carousel";
 import { FaFacebook, FaWhatsapp, FaInstagram, FaTwitter } from "react-icons/fa";
 import Detailsbar from "../Detailsbar";
-
+import { PdfViewer } from "../PdfViewer";
 export const Detalle = () => {
   const value = useContext(DataContext);
   const [detalle, setDetalle] = useState(null);
@@ -31,9 +31,9 @@ export const Detalle = () => {
 
   return (
     <>
-    <header>
-      <Detailsbar />
-    </header>
+      <header>
+        <Detailsbar />
+      </header>
       <div className="details">
         <Carousel>
           {detalle.photo.map((image, index) => (
@@ -64,6 +64,10 @@ export const Detalle = () => {
           </ul>
           <p className="details__info">{detalle.description}</p>
         </div>
+        {/*<div className="details__catalog">
+          <h3>Catálogo</h3>
+          <PdfViewer />
+        </div>*/}
         <div className="line__card"></div>
       </div>
     </>
