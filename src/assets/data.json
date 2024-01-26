@@ -25,7 +25,7 @@
       "/images/catalogo/productos/ANA_VINUEZA/ANA.jpg"
     ],
     "description": "Mi padre siempre ha sido un gran apoyo para mí, ahora quiero apoyarlo también para seguir creciendo juntos. Mi emprendimiento es la oportunidad para seguir adelante, apoyándonos mutuamente y a la vez ofreciendo deliciosas pizzas con ingredientes de alta calidad que enamorarán a todos nuestros clientes. Con su apoyo podremos seguir llenando de deliciosos sabores cada hogar de la ciudad.",
-    "catalogo": ""
+    "catalogo": "#"
   },
   {
     "name": "Azucena Confecciones",
@@ -53,7 +53,7 @@
       "/images/catalogo/productos/CRISTIAN/CRISTIAN.jpg"
     ],
     "description": "Mi empresa surge ante la necesidad de crear prendas únicas de excelente calidad y a precios asequibles, luego de 10 años continuos de trabajo hemos logrado crecer, aumentar nuestro catálogo de productos ofreciendo a nuestros clientes la confianza que dan los productos de calidad. Junto con mi madre y mi hermana día a día buscamos innovar y satisfacer las expectativas de nuestros clientes, a quienes consideramos una familia.",
-    "catalogo": ""
+    "catalogo": "#"
   },
   {
     "name": "Costeñitas",
@@ -81,7 +81,7 @@
       "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel.jpg"
     ],
     "description": "Durante más de 30 años mi familia ha trabajado con productos elaborados a base de verde. Ahora tengo la gran responsabilidad de continuar con el legado familiar y como emprendedora estoy convencida de que lo lograré con productos de alta calidad al alcance de todo bolsillo, poniendo siempre en ellos todo el amor y dedicación que merecen nuestros clientes.",
-    "catalogo": ""
+    "catalogo": "#"
   },
   {
     "name": "Helados Deliciosos",
@@ -109,7 +109,7 @@
       "/images/catalogo/productos/MIREYA/MIREYA.jpg"
     ],
     "description": "Me gusta pasar tiempo con mi familia en las tardes de sol y siempre acompañamos estos bellos momentos con un helado delicioso, y cuanto más si es de sabores que no hemos probado. En la variedad está el gusto, por lo que ofrecemos una enorme variedad de sabores únicos como aguacate, jengibre, linaza y muchos más. Descúbrelos con nosotros en el sector de Guamaní, un gran sabor con mucha innovación.",
-    "catalogo": ""
+    "catalogo": "#"
   },
   {
     "name": "Fotografiarte",
@@ -137,7 +137,8 @@
       "/images/catalogo/servicios/Jose_Secaira/Editar.jpg",
       "/images/catalogo/servicios/Jose_Secaira/Nescafe.jpg"
     ],
-    "description": "La fotografía se ha consolidado como una herramienta potente aplicada a muchos campos. Podemos inmortalizar momentos hermosos que quisiéramos vivir una y otra vez, expresar sentires e incluso mostrar la mejor cara de nuestros productos invitando a clientes potenciales a consumirlos. Todas estas facetas de la fotografía las trabajo creando sesiones de fotos que congelan en el tiempo momentos hermosos, cubriendo eventos importantes o realizando catálogos web con una fotografía de producto insuperable."
+    "description": "La fotografía se ha consolidado como una herramienta potente aplicada a muchos campos. Podemos inmortalizar momentos hermosos que quisiéramos vivir una y otra vez, expresar sentires e incluso mostrar la mejor cara de nuestros productos invitando a clientes potenciales a consumirlos. Todas estas facetas de la fotografía las trabajo creando sesiones de fotos que congelan en el tiempo momentos hermosos, cubriendo eventos importantes o realizando catálogos web con una fotografía de producto insuperable.",
+    "catalogo": "#"
   },
   {
     "name": "Crochet Art",
@@ -160,8 +161,8 @@
       }
     ],
     "photo": [],
-    "description": "",
-    "catalogo": ""
+    "description": "#",
+    "catalogo": "#"
   },
   {
     "name": "Dark Engine",
@@ -172,7 +173,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -184,7 +185,7 @@
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/CatálogoRivasAlex.pdf"
   },
   {
@@ -196,19 +197,19 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Instagram",
-        "url": ""
+        "url": "#"
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/EmilioSalazar.pdf"
   },
   {
@@ -220,7 +221,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -244,7 +245,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -256,7 +257,7 @@
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/CatálogoGissel.pdf"
   },
   {
@@ -268,7 +269,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -281,7 +282,7 @@
     ],
     "photo": [],
     "description": "Mi emprendimiento es de un laboratorio de mecánica dental dónde realizamos prótesis removibles y férulas dentales.",
-    "catalogo": ""
+    "catalogo": "#"
   },
   {
     "name": "Importadora EO/EC",
@@ -292,7 +293,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -304,7 +305,7 @@
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/CatálogoMabelDonoso.pdf"
   },
   {
@@ -316,7 +317,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -328,7 +329,7 @@
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/MultiConfession.pdf"
   },
   {
@@ -352,8 +353,8 @@
       }
     ],
     "photo": [],
-    "description": "",
-    "catalogo": ""
+    "description": "#",
+    "catalogo": "#"
   },
   {
     "name": "Musa de las Flores",
@@ -364,7 +365,7 @@
     "social_links": [
       {
         "name": "Facebook",
-        "url": ""
+        "url": "#"
       },
       {
         "name": "Whatsapp",
@@ -376,7 +377,7 @@
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/MusadelasFlowers.pdf"
   },
   {
@@ -400,7 +401,7 @@
       }
     ],
     "photo": [],
-    "description": "",
+    "description": "#",
     "catalogo": "./assets/catalogs/CentrodeNeurodesarrolloyCuidadoInfantil.pdf"
   }
 ]
