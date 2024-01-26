@@ -10,7 +10,7 @@ export const Emprendedor = ({ name, photo, description }) => {
           <img
             key={0}
             src={firstImage}
-            alt={`${name} - 0`}
+            alt={`${name}`}
             className="emprendedor__image"
           />
         </div>

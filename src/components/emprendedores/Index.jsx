@@ -20,6 +20,7 @@ export const Emprendedores = () => {
             owner={emprendedor.owner}
             social_links={emprendedor.social_links}
             description={emprendedor.description}
+            catalogo={emprendedor.catalogo}
           />
         ))}
       </div>
