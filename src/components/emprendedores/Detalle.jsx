@@ -64,7 +64,10 @@ export const Detalle = () => {
           <p className="details__info">{detalle.description}</p>
         </div>
         <div className="details__catalog">
-          <object data={detalle.catalogo} type="application/pdf"></object>
+          <object
+            data={`./${detalle.catalogo}`}
+            type="application/pdf"
+          ></object>
         </div>
         <div className="line__card"></div>
       </div>

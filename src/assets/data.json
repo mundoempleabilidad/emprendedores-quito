@@ -233,7 +233,7 @@
     ],
     "photo": [],
     "description": "Brindo un servicio de barbería y peluquería completo, oportuno y de calidad, utilizando técnicas de corte modernas adaptables a cualquier estilo del cliente.",
-    "catalogo": "./assets/catalogs/JStylecatálogo.pdf"
+    "catalogo": "../catalogs/JStylecatálogo.pdf"
   },
   {
     "name": "Helados Gissell",
