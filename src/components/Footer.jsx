@@ -15,7 +15,9 @@ export const Footer = () => {
               <a href="#emprendedores">Emprendedores Destacados</a>
             </li>
             <li>
-              <img src={InfoLogo} alt="info-logo" />
+              <a href="https://www.children.org/">
+                <img src={InfoLogo} alt="info-logo" />
+              </a>
             </li>
           </ul>
         </div>
