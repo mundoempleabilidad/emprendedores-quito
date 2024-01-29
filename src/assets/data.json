@@ -30,8 +30,8 @@
       "/images/catalogo/productos/ANA_VINUEZA/ANA_Producto.jpg",
       "/images/catalogo/productos/ANA_VINUEZA/ANA_Proceso.jpg",
       "/images/catalogo/productos/ANA_VINUEZA/ANA.jpg",
-      "/images/catalogo/productos/ANA_VINUEZA/Proceso_1.jpg",
-      "/images/catalogo/productos/ANA_VINUEZA/Producto.jpg"
+      "/images/catalogo/productos/ANA_VINUEZA/Proceso_1.jpeg",
+      "/images/catalogo/productos/ANA_VINUEZA/Producto.jpeg"
     ],
     "description": "Mi propósito con mi emprendimiento es extender sucursales darnos a conocer en varios lugares para que conozcan nuestro producto me gusta mucho la gastronomía y reflejar en nuestros platos mi objetivo es que cada persona que consuma nuestro producto regrese feliz.",
     "catalogo": "../catalogs/rappy pizza cartas menus1.pdf"
@@ -49,7 +49,6 @@
       "corviches",
       "bolas para sopa"
     ],
-    "telefono": "#",
     "weight": 61,
     "social_links": [
       {
@@ -69,10 +68,10 @@
       "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel1.jpg",
       "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel2.jpg",
       "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel.jpg",
-      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_1.jpg",
-      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_2.jpg",
-      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_3.jpg",
-      "/images/catalogo/productos/ISABEL_EMPANADAS/Emprendedor.jpg"
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_1.jpeg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_2.jpeg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_3.jpeg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Emprendedor.jpeg"
     ],
     "description": "Soy una mujer emprendedora que identificó una valiosa oportunidad de negocio al aprovechar el talento de mi madre. Esta decisión se ha convertido en una excelente oportunidad de crecimiento económico tanto para mi familia como para mí. Me considero mi mayor fuente de inspiración y estoy decidida a alcanzar el éxito.",
     "catalogo": "../catalogs/catálogo costeñitas.pdf"
@@ -130,7 +129,6 @@
       "ponchos",
       "amigurumis"
     ],
-    "telefono": "#",
     "weight": 11,
     "social_links": [
       {
@@ -154,7 +152,7 @@
       "/images/catalogo/productos/MARILYN_BARCIA/Producto.jpeg",
       "/images/catalogo/productos/MARILYN_BARCIA/Mujer.jpeg",
       "/images/catalogo/productos/MARILYN_BARCIA/Proceso.jpeg",
-      "/images/catalogo/productos/MARILYN_BARCIA/toys.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/Toys.jpeg",
       "/images/catalogo/productos/MARILYN_BARCIA/Emprendedor.jpeg"
     ],
     "description": "Crochet Art surgió de mi deseo de superación en casa, aprovechando los conocimientos previos transmitidos por mi madre, los cuales adquirimos en la iglesia a la que asistimos. Este proyecto se convirtió en una vía para enfrentar la difícil situación económica en mi hogar durante la pandemia. Comencé creando amigurumis y luego amplié nuestra oferta con prendas de vestir, contribuyendo así a mejorar nuestra situación financiera.",
@@ -167,13 +165,8 @@
     "owner": "Jair Muñoz",
     "buscar": "Barbería",
     "ofrece": ["cortes de cabello", "productos de cuidado para el cabello"],
-    "telefono": "#",
     "weight": 31,
     "social_links": [
-      {
-        "name": "Facebook",
-        "url": "#"
-      },
       {
         "name": "Whatsapp",
         "url": "https://api.whatsapp.com/send?phone= 593961358180text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
@@ -209,22 +202,14 @@
     "weight": 31,
     "social_links": [
       {
-        "name": "Facebook",
-        "url": "#"
-      },
-      {
         "name": "Whatsapp",
         "url": "https://api.whatsapp.com/send?phone=593981000603&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "#"
       }
     ],
     "photo": [
       "/images/catalogo/productos/MAYERLI_SANCHEZ/Producto.jpg",
-      "/images/catalogo/productos/MAYERLI_SANCHEZ/Proceso.jpg",
-      "/images/catalogo/productos/MAYERLI_SANCHEZ/Emprendedor.jpg"
+      "/images/catalogo/productos/MAYERLI_SANCHEZ/Proceso.jpeg",
+      "/images/catalogo/productos/MAYERLI_SANCHEZ/Emprendedor.jpeg"
     ],
     "description": "Mi motivación inicial surge de mi deseo de proporcionarle apoyo económico a mi hija, con la esperanza de superar los desafíos que enfrentamos juntas. Aspiro a establecerme y llegar lejos en el negocio de la venta de helados, con la meta de tener un lugar fijo donde distribuir mis productos y ser reconocido a nivel nacional. Además, mi objetivo es brindar oportunidades laborales a personas en situaciones similares, permitiéndonos crecer juntos como comunidad.",
     "catalogo": "../catalogs/Helados Gissel.pdf"
@@ -265,8 +250,7 @@
       "/images/catalogo/servicios/PENELOPE_DONOSO/Proceso.jpeg",
       "/images/catalogo/servicios/PENELOPE_DONOSO/Emprendedor.jpeg"
     ],
-    "description": "En nuestro emprendimiento, buscamos generar alegría y bienestar, con la motivación de devolver sonrisas a las personas. Nos esforzamos por ser reconocidos en todo Ecuador como un laboratorio dental de prestigio, destacando por la satisfacción del cliente, la efectividad y la calidad en todos nuestros trabajos. Elaboramos todo lo que son: férulas dentales, paratos dentales y prótesis removibles de acrílico.",
-    "catalogo": "#"
+    "description": "En nuestro emprendimiento, buscamos generar alegría y bienestar, con la motivación de devolver sonrisas a las personas. Nos esforzamos por ser reconocidos en todo Ecuador como un laboratorio dental de prestigio, destacando por la satisfacción del cliente, la efectividad y la calidad en todos nuestros trabajos. Elaboramos todo lo que son: férulas dentales, paratos dentales y prótesis removibles de acrílico."
   },
   {
     "name": "Multiconfesion AVED",
@@ -285,20 +269,16 @@
       {
         "name": "Whatsapp",
         "url": "https://api.whatsapp.com/send?phone=593981023124&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "#"
       }
     ],
     "photo": [
-      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Proceso.jpeg",
-      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_1.jpeg",
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_3.jpeg",
       "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_2.jpeg",
-      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_3.jpeg"
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_1.jpeg",
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Proceso.jpeg"
     ],
     "description": "Somos las creadoras de estilos únicos, destacando la esencia y belleza de tu ergonomía para que te sientas auténtico. Con esta iniciativa, buscamos ser líderes en la venta de ropa original, estableciendo nuestras propias cadenas y proporcionando cada día más que un excelente servicio. Nos comprometemos a ofrecer calidad en nuestros productos, permitiéndonos competir en el mercado nacional con los mejores precios, no solo en términos económicos, sino también en la calidad que brindamos. Buscamos satisfacer tus necesidades y exigencias, abarcando tus gustos de acuerdo con tu estilo de ver y vivir la vida.",
-    "catalogo": "./assets/catalogs/Multi Confession.pdf"
+    "catalogo": "../catalogs/Multi Confession.pdf"
   },
   {
     "name": "Musa de las Flores",
@@ -312,7 +292,6 @@
       "cajas sorpresa",
       "rosas eternas"
     ],
-    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
@@ -333,13 +312,13 @@
       }
     ],
     "photo": [
+      "/images/catalogo/productos/MELANY_MILA/Producto.jpeg",
       "/images/catalogo/productos/MELANY_MILA/Proceso.jpeg",
       "/images/catalogo/productos/MELANY_MILA/Proceso_1.jpeg",
-      "/images/catalogo/productos/MELANY_MILA/Producto.jpeg",
-      "/images/catalogo/productos/MELANY_MILA/emprendedor.jpeg"
+      "/images/catalogo/productos/MELANY_MILA/Emprendedor.jpeg"
     ],
     "description": "Este emprendimiento colaborativo surgió de la amistad entre dos jóvenes de centros comunitarios, quienes hoy están decididas a hacer realidad un sueño. Musa de las Flores opera como un negocio en línea, especializado en la personalización de regalos para cualquier ocasión, con el propósito de arrancarle una sonrisa a tu persona",
-    "catalogo": "./assets/catalogs/MusadelasFlowers.pdf"
+    "catalogo": "../catalogs/Musa de las Flowers.pdf"
   },
   {
     "name": "Dope Wope",
@@ -350,7 +329,6 @@
     "ofrece": [
       "productos de bisutería o modelado para la fabricación mediante la impresión 3D"
     ],
-    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
@@ -373,7 +351,7 @@
       "/images/catalogo/productos/KEVIN_ZUÑIGA/Producto_4.jpeg"
     ],
     "description": "Dope Wope es un emprendimiento que se fundo en base a sueños pero los sueños solo son eso sueños, pero si los convertimos en metas cambian rápidamente su contexto. El diseño industrial es poco valorado en el Ecuador por lo que la misión es dar a conocer el diseño y su papel fundamental en el día a día, para ello empezamos con una línea de autos con inspiración nacional que se vende de manera virtual y presencial.",
-    "catalogo": "/catalogs/Catálogo de productos .pdf"
+    "catalogo": "../catalogs/Catálogo de productos .pdf"
   },
   {
     "name": "Tejidos MJ",
@@ -388,7 +366,6 @@
       "flores tejidas",
       "gorras tejidas"
     ],
-    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
@@ -414,13 +391,13 @@
       "/images/catalogo/productos/MICHELLE_JUMBO/Emprendedor.jpeg"
     ],
     "description": "Diseño y confección de tejidos, amigurumis, manualidad y más, mi motivación siempre fue mis ganas de salir adelante mientras estudio por ello con lo que gano ayudo a mis padres en los gastos de la U, y de igual manera si se necesita algo en la casa, quiero llegar a tener mi taller o mi tienda de tejidos donde pueda dar clases a otras personas para que igual pueda emprender.",
-    "catalogo": "/catalogs/Tejidos MJ.pdf"
+    "catalogo": "../catalogs/Tejidos MJ.pdf"
   },
   {
     "name": "Dark Engine",
     "category": "Servicios",
     "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Rivas Alex",
+    "owner": "Alex Rivas",
     "buscar": "Electrónica",
     "ofrece": ["Modificación de chasis de ordenador"],
     "telefono": "+593986683526",
@@ -452,7 +429,7 @@
       "/images/catalogo/servicios/ALEX_RIVAS/Emprendedor.jpeg"
     ],
     "description": "Lo que hacemos es revivir esos viejos chasis de ordenador que están acumulando polvo en casa. Dándoles una nueva apariencia, tanto interna como externa ademas de priorizar la funcionalidad del mismo. En DarkEngine nos interesa darle una nueva oportunidad a aquellos computadores que nos han acompañado durante años. Además que al reutilizar los chasis viejos estamos aportando un granito de arena a disminuir la cantidad de chatarra que suele haber en los basureros del país.",
-    "catalogo": "./assets/catalogs/CatálogoRivasAlex.pdf"
+    "catalogo": "../catalogs/CatalogoRivasAlex.pdf"
   },
   {
     "name": "Evine",
@@ -489,7 +466,7 @@
       "/images/catalogo/productos/ALISON_FARINANGO/Emprendedor.jpeg"
     ],
     "description": "Evine es un emprendimiento que se dedica a la confección de lencería lencería fina de alta calidad, con un enfoque principal en la creación de pijamas para mujeres y batas para las damas de honor de una novia. Nuestro compromiso es fomentar el amor propio de las mujeres a través de productos personalizables en cuanto a diseño, textura, colores y tallas; ofreciendo una experiencia única y exclusiva.",
-    "catalogo": "/catalogs/Catalogo Nuevo_compressed.pdf"
+    "catalogo": "../catalogs/Catalogo Nuevo_compressed.pdf"
   },
   {
     "name": "Pastelería D'Raffa",
@@ -498,7 +475,6 @@
     "owner": "Jeimmy Nieto",
     "buscar": "Comida",
     "ofrece": ["pastelería de vanguardia", "pasteles personalizados"],
-    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
@@ -526,6 +502,6 @@
       "/images/catalogo/productos/JEIMMY_NIETO/Emprendedor_1.jpeg"
     ],
     "description": "Hola, somos Jeimmy, Henry y Rafaella. Una familia amante de la repostería, y cocina trabajamos para llevar dulzura y delicadeza a cada uno de nuestros clientes. Nuestros productos están elaborados con los mejores ingredientes y con la mejor innovación. El Compartir es uno de nuestros grandes valores por lo que nuestra misión es lograr llevar dulzura y amor a cada uno de los hogares de nuestros clientes y de esa manera endulcen su estadía con todos sus seres queridos.",
-    "catalogo": "/catalogs/Catálogo DRaffa.pdf"
+    "catalogo": "../catalogs/Catálogo DRaffa.pdf"
   }
 ]
