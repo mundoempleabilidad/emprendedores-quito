@@ -5,6 +5,9 @@
     "date": "2020-06-10T06:20:55+06:00",
     "owner": "Ana Vinueza",
     "weight": 41,
+    "buscar": "Comida",
+    "ofrece": ["pizza", "pollo", "lasaña", "parillada"],
+    "telefono": "+593960106962",
     "social_links": [
       {
         "name": "Facebook",
@@ -17,49 +20,36 @@
       {
         "name": "Instagram",
         "url": "https://www.instagram.com/pizzarappi/"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@martithalvinueza41?_t=8jKsHF5Zxpe&_r=1"
       }
     ],
     "photo": [
       "/images/catalogo/productos/ANA_VINUEZA/ANA_Producto.jpg",
       "/images/catalogo/productos/ANA_VINUEZA/ANA_Proceso.jpg",
-      "/images/catalogo/productos/ANA_VINUEZA/ANA.jpg"
+      "/images/catalogo/productos/ANA_VINUEZA/ANA.jpg",
+      "/images/catalogo/productos/ANA_VINUEZA/Proceso_1.jpg",
+      "/images/catalogo/productos/ANA_VINUEZA/Producto.jpg"
     ],
-    "description": "Mi padre siempre ha sido un gran apoyo para mí, ahora quiero apoyarlo también para seguir creciendo juntos. Mi emprendimiento es la oportunidad para seguir adelante, apoyándonos mutuamente y a la vez ofreciendo deliciosas pizzas con ingredientes de alta calidad que enamorarán a todos nuestros clientes. Con su apoyo podremos seguir llenando de deliciosos sabores cada hogar de la ciudad.",
-    "catalogo": "#"
+    "description": "Mi propósito con mi emprendimiento es extender sucursales darnos a conocer en varios lugares para que conozcan nuestro producto me gusta mucho la gastronomía y reflejar en nuestros platos mi objetivo es que cada persona que consuma nuestro producto regrese feliz.",
+    "catalogo": "../catalogs/rappy pizza cartas menus1.pdf"
   },
   {
-    "name": "Azucena Confecciones",
-    "category": "Productos",
-    "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Cristian Nuñez",
-    "weight": 31,
-    "social_links": [
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/Azucena-Confecciones-102056248378762/"
-      },
-      {
-        "name": "Whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=5930984249156&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "https://www.instagram.com/tapiceriaclassic/"
-      }
-    ],
-    "photo": [
-      "/images/catalogo/productos/CRISTIAN/CRISTIAN_Proceso.jpg",
-      "/images/catalogo/productos/CRISTIAN/CRISTIAN_Producto.jpg",
-      "/images/catalogo/productos/CRISTIAN/CRISTIAN.jpg"
-    ],
-    "description": "Mi empresa surge ante la necesidad de crear prendas únicas de excelente calidad y a precios asequibles, luego de 10 años continuos de trabajo hemos logrado crecer, aumentar nuestro catálogo de productos ofreciendo a nuestros clientes la confianza que dan los productos de calidad. Junto con mi madre y mi hermana día a día buscamos innovar y satisfacer las expectativas de nuestros clientes, a quienes consideramos una familia.",
-    "catalogo": "#"
-  },
-  {
-    "name": "Costeñitas",
+    "name": "Costeñitas empanadas y más",
     "category": "Productos",
     "date": "2020-06-09T06:20:55+06:00",
     "owner": "Isabel Huayambe",
+    "buscar": "Comida",
+    "ofrece": [
+      "empanadas",
+      "bolones",
+      "bollos",
+      "corviches",
+      "bolas para sopa"
+    ],
+    "telefono": "#",
     "weight": 61,
     "social_links": [
       {
@@ -78,44 +68,29 @@
     "photo": [
       "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel1.jpg",
       "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel2.jpg",
-      "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel.jpg"
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Isabel.jpg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_1.jpg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_2.jpg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Producto_3.jpg",
+      "/images/catalogo/productos/ISABEL_EMPANADAS/Emprendedor.jpg"
     ],
-    "description": "Durante más de 30 años mi familia ha trabajado con productos elaborados a base de verde. Ahora tengo la gran responsabilidad de continuar con el legado familiar y como emprendedora estoy convencida de que lo lograré con productos de alta calidad al alcance de todo bolsillo, poniendo siempre en ellos todo el amor y dedicación que merecen nuestros clientes.",
-    "catalogo": "#"
-  },
-  {
-    "name": "Helados Deliciosos",
-    "category": "Productos",
-    "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Mireya Mosquera",
-    "weight": 141,
-    "social_links": [
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/Delicias-Coste%C3%B1as-111752540614931/"
-      },
-      {
-        "name": "Whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=59396 3370758&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "https://instagram.com/sisa.rani?igshid=1lf294mzvxflr"
-      }
-    ],
-    "photo": [
-      "/images/catalogo/productos/MIREYA/MIREYA_Producto.jpg",
-      "/images/catalogo/productos/MIREYA/MIREYA_Venta.jpg",
-      "/images/catalogo/productos/MIREYA/MIREYA.jpg"
-    ],
-    "description": "Me gusta pasar tiempo con mi familia en las tardes de sol y siempre acompañamos estos bellos momentos con un helado delicioso, y cuanto más si es de sabores que no hemos probado. En la variedad está el gusto, por lo que ofrecemos una enorme variedad de sabores únicos como aguacate, jengibre, linaza y muchos más. Descúbrelos con nosotros en el sector de Guamaní, un gran sabor con mucha innovación.",
-    "catalogo": "#"
+    "description": "Soy una mujer emprendedora que identificó una valiosa oportunidad de negocio al aprovechar el talento de mi madre. Esta decisión se ha convertido en una excelente oportunidad de crecimiento económico tanto para mi familia como para mí. Me considero mi mayor fuente de inspiración y estoy decidida a alcanzar el éxito.",
+    "catalogo": "../catalogs/catálogo costeñitas.pdf"
   },
   {
     "name": "Fotografiarte",
     "category": "Servicios",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "José Secaira",
+    "buscar": "Fotografía",
+    "ofrece": [
+      "servicio de fotografía",
+      "video",
+      "marketing",
+      "manejo de redes sociales",
+      "creación de contenido"
+    ],
+    "telefono": "+593978685610",
     "weight": 1,
     "social_links": [
       {
@@ -137,19 +112,30 @@
       "/images/catalogo/servicios/Jose_Secaira/Editar.jpg",
       "/images/catalogo/servicios/Jose_Secaira/Nescafe.jpg"
     ],
-    "description": "La fotografía se ha consolidado como una herramienta potente aplicada a muchos campos. Podemos inmortalizar momentos hermosos que quisiéramos vivir una y otra vez, expresar sentires e incluso mostrar la mejor cara de nuestros productos invitando a clientes potenciales a consumirlos. Todas estas facetas de la fotografía las trabajo creando sesiones de fotos que congelan en el tiempo momentos hermosos, cubriendo eventos importantes o realizando catálogos web con una fotografía de producto insuperable.",
-    "catalogo": "#"
+    "description": "Somos un equipo enfocado a la creación de contenido para canales digitales. Brindamos apoyo estratégico a emprendedores que les permita posicionarse efectivamente en el mundo digital. Nuestra misión es empoderar a emprendedores durante estos tiempos desafiantes, facilitándoles las herramientas necesarias para destacar en línea y prosperar en el entorno digital",
+    "catalogo": "../catalogs/Catálogo de servicios_OCEANSTUDIO.pdf"
   },
   {
     "name": "Crochet Art",
     "category": "Productos",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "Marilyn Barcia",
+    "buscar": "Tejidos",
+    "ofrece": [
+      "ropa tejida para mujer",
+      "faldas",
+      "tops",
+      "carteras",
+      "sacos tejidos para hombre",
+      "ponchos",
+      "amigurumis"
+    ],
+    "telefono": "#",
     "weight": 11,
     "social_links": [
       {
         "name": "Facebook",
-        "url": "#"
+        "url": "https://www.facebook.com/profile.php?id=61555683612596&mibextid=ZbWKwL"
       },
       {
         "name": "Whatsapp",
@@ -157,66 +143,31 @@
       },
       {
         "name": "Instagram",
-        "url": "#"
+        "url": "https://www.instagram.com/artcroshet?igsh=MTlxcDF4amk1czFuMQ=="
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.instagram.com/artcroshet?igsh=MTlxcDF4amk1czFuMQ=="
       }
     ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "#"
-  },
-  {
-    "name": "Dark Engine",
-    "category": "Servicios",
-    "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Rivas Alex",
-    "weight": 31,
-    "social_links": [
-      {
-        "name": "Facebook",
-        "url": "#"
-      },
-      {
-        "name": "Whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=593992668565&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "#"
-      }
+    "photo": [
+      "/images/catalogo/productos/MARILYN_BARCIA/Emprendedor.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/Mujer.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/Proceso.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/Producto.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/toys.jpeg"
     ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "./assets/catalogs/CatálogoRivasAlex.pdf"
-  },
-  {
-    "name": "Quesívoros",
-    "category": "Productos",
-    "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Cristopher Salazar",
-    "weight": 31,
-    "social_links": [
-      {
-        "name": "Facebook",
-        "url": "#"
-      },
-      {
-        "name": "Whatsapp",
-        "url": "#"
-      },
-      {
-        "name": "Instagram",
-        "url": "#"
-      }
-    ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "./assets/catalogs/EmilioSalazar.pdf"
+    "description": "Crochet Art surgió de mi deseo de superación en casa, aprovechando los conocimientos previos transmitidos por mi madre, los cuales adquirimos en la iglesia a la que asistimos. Este proyecto se convirtió en una vía para enfrentar la difícil situación económica en mi hogar durante la pandemia. Comencé creando amigurumis y luego amplié nuestra oferta con prendas de vestir, contribuyendo así a mejorar nuestra situación financiera.",
+    "catalogo": "../catalogs/Catálogo Croshet Art.pdf"
   },
   {
     "name": "J-Style",
     "category": "Servicios",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "Jair Muñoz",
+    "buscar": "Barbería",
+    "ofrece": ["cortes de cabello", "productos de cuidado para el cabello"],
+    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
@@ -229,18 +180,32 @@
       },
       {
         "name": "Instagram",
-        "url": "#"
+        "url": "https://www.instagram.com/jstyl_e24"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@jairbe18?_t=8jMHYezEwqc&_r=1"
       }
     ],
-    "photo": [],
-    "description": "Brindo un servicio de barbería y peluquería completo, oportuno y de calidad, utilizando técnicas de corte modernas adaptables a cualquier estilo del cliente.",
-    "catalogo": "../catalogs/JStylecatálogo.pdf"
+    "photo": [
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_1.jpg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_2.jpg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_3.jpg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_4.jpg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_5.jpg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_6.jpg"
+    ],
+    "description": "Mi emprendimiento ofrece servicios de barbería y peluquería para hombres, utilizando técnicas personalizadas a domicilio. Nuestra principal meta es brindar a las personas la oportunidad de recibir estos servicios desde la comodidad de sus hogares. Adaptándonos a los horarios de nuestros clientes mediante citas previas, buscamos facilitar el acceso a servicios de barbería, permitiendo a las personas cumplir con sus actividades diarias sin contratiempos",
+    "catalogo": "../catalogs/Folleto Tríptico Peluquería Barbería Elegante Clásico Negro.pdf"
   },
   {
     "name": "Helados Gissell",
     "category": "Productos",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "Mayerli Sánchez",
+    "buscar": "Postres",
+    "ofrece": ["helados de distintod sabores"],
+    "telefono": "+593959841306",
     "weight": 31,
     "social_links": [
       {
@@ -256,20 +221,31 @@
         "url": "#"
       }
     ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "./assets/catalogs/CatálogoGissel.pdf"
+    "photo": [
+      "/images/catalogo/productos/MAYERLI_SANCHEZ/Producto.jpg",
+      "/images/catalogo/productos/MAYERLI_SANCHEZ/Proceso.jpg",
+      "/images/catalogo/productos/MAYERLI_SANCHEZ/Emprendedor.jpg"
+    ],
+    "description": "Mi motivación inicial surge de mi deseo de proporcionarle apoyo económico a mi hija, con la esperanza de superar los desafíos que enfrentamos juntas. Aspiro a establecerme y llegar lejos en el negocio de la venta de helados, con la meta de tener un lugar fijo donde distribuir mis productos y ser reconocido a nivel nacional. Además, mi objetivo es brindar oportunidades laborales a personas en situaciones similares, permitiéndonos crecer juntos como comunidad.",
+    "catalogo": "../catalogs/Helados Gissel.pdf"
   },
   {
     "name": "M - Dent",
     "category": "Servicios",
     "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Rivas Alex",
+    "owner": "Penélope Donoso",
+    "buscar": "Productos dentales",
+    "ofrece": [
+      "férulas dentales",
+      "aparatos dentales",
+      "prótesis móviles de acrílico"
+    ],
+    "telefono": "+5932452771",
     "weight": 31,
     "social_links": [
       {
         "name": "Facebook",
-        "url": "#"
+        "url": "https://www.facebook.com/profile.php?id=61550737732694"
       },
       {
         "name": "Whatsapp",
@@ -277,47 +253,34 @@
       },
       {
         "name": "Instagram",
-        "url": "#"
+        "url": "https://www.instagram.com/mdent81?igsh=eHN2aDdndTJ4Y2lv"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@mdent5?is_from_webapp=1&sender_device=pc"
       }
     ],
-    "photo": [],
-    "description": "Mi emprendimiento es de un laboratorio de mecánica dental dónde realizamos prótesis removibles y férulas dentales.",
+    "photo": [
+      "/images/catalogo/productos/PENELOPE_DONOSO/Producto.jpeg",
+      "/images/catalogo/productos/PENELOPE_DONOSO/Proceso.jpeg",
+      "/images/catalogo/productos/PENELOPE_DONOSO/Emprendedor.jpeg"
+    ],
+    "description": "En nuestro emprendimiento, buscamos generar alegría y bienestar, con la motivación de devolver sonrisas a las personas. Nos esforzamos por ser reconocidos en todo Ecuador como un laboratorio dental de prestigio, destacando por la satisfacción del cliente, la efectividad y la calidad en todos nuestros trabajos. Elaboramos todo lo que son: férulas dentales, paratos dentales y prótesis removibles de acrílico.",
     "catalogo": "#"
   },
   {
-    "name": "Importadora EO/EC",
-    "category": "Servicios",
-    "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Penélope Donoso",
-    "weight": 31,
-    "social_links": [
-      {
-        "name": "Facebook",
-        "url": "#"
-      },
-      {
-        "name": "Whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=593987713094&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "#"
-      }
-    ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "./assets/catalogs/CatálogoMabelDonoso.pdf"
-  },
-  {
-    "name": "Multi Confession",
+    "name": "Multiconfesion AVED",
     "category": "Servicios",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "Génesis Quistanchala",
+    "buscar": "Costura",
+    "ofrece": ["costura de prendas de vestir a medida"],
+    "telefono": "+593981023124",
     "weight": 31,
     "social_links": [
       {
         "name": "Facebook",
-        "url": "#"
+        "url": "https://www.facebook.com/profile.php?id=61552674182676"
       },
       {
         "name": "Whatsapp",
@@ -328,44 +291,33 @@
         "url": "#"
       }
     ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "./assets/catalogs/MultiConfession.pdf"
-  },
-  {
-    "name": "Mil Maravillas",
-    "category": "Productos",
-    "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Shirley Cunduri",
-    "weight": 31,
-    "social_links": [
-      {
-        "name": "Facebook",
-        "url": "#"
-      },
-      {
-        "name": "Whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=593997255108&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
-      },
-      {
-        "name": "Instagram",
-        "url": "#"
-      }
+    "photo": [
+      "/images/catalogo/productos/GENESIS_QUISANCHALA/Proceso.jpeg",
+      "/images/catalogo/productos/GENESIS_QUISANCHALA/Producto_1.jpeg",
+      "/images/catalogo/productos/GENESIS_QUISANCHALA/Producto_2.jpeg",
+      "/images/catalogo/productos/GENESIS_QUISANCHALA/Producto_3.jpeg"
     ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "#"
+    "description": "Somos las creadoras de estilos únicos, destacando la esencia y belleza de tu ergonomía para que te sientas auténtico. Con esta iniciativa, buscamos ser líderes en la venta de ropa original, estableciendo nuestras propias cadenas y proporcionando cada día más que un excelente servicio. Nos comprometemos a ofrecer calidad en nuestros productos, permitiéndonos competir en el mercado nacional con los mejores precios, no solo en términos económicos, sino también en la calidad que brindamos. Buscamos satisfacer tus necesidades y exigencias, abarcando tus gustos de acuerdo con tu estilo de ver y vivir la vida.",
+    "catalogo": "./assets/catalogs/Multi Confession.pdf"
   },
   {
     "name": "Musa de las Flores",
     "category": "Productos",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "Melany Mila & Jacqueline Mangia",
+    "buscar": "Regalos",
+    "ofrece": [
+      "detalles personalizados",
+      "globos burbuja",
+      "cajas sorpresa",
+      "rosas eternas"
+    ],
+    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
         "name": "Facebook",
-        "url": "#"
+        "url": "https://www.facebook.com/profile.php?id=61552194501494&mibextid=ZbWKwL"
       },
       {
         "name": "Whatsapp",
@@ -373,35 +325,207 @@
       },
       {
         "name": "Instagram",
-        "url": "#"
+        "url": "https://instagram.com/musadelasflores_?igshid=OGQ5ZDc2ODk2ZA=="
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@musa_de_las_flores?_t=8gtnMZxHUW6&_r=1"
       }
     ],
-    "photo": [],
-    "description": "#",
+    "photo": [
+      "/images/catalogo/productos/MELANI_MILA/Proceso.jpeg",
+      "/images/catalogo/productos/MELANI_MILA/Proceso_1.jpeg",
+      "/images/catalogo/productos/MELANI_MILA/Producto.jpeg",
+      "/images/catalogo/productos/MELANI_MILA/emprendedor.jpeg"
+    ],
+    "description": "Este emprendimiento colaborativo surgió de la amistad entre dos jóvenes de centros comunitarios, quienes hoy están decididas a hacer realidad un sueño. Musa de las Flores opera como un negocio en línea, especializado en la personalización de regalos para cualquier ocasión, con el propósito de arrancarle una sonrisa a tu persona",
     "catalogo": "./assets/catalogs/MusadelasFlowers.pdf"
   },
   {
-    "name": "Peques del Sol",
-    "category": "Servicios",
+    "name": "Dope Wope",
+    "category": "Productos",
     "date": "2020-06-08T06:20:55+06:00",
-    "owner": "Lizbeth Abigail Oña Klerque",
+    "owner": "kevin Zuñiga",
+    "buscar": "Impresiones en 3D",
+    "ofrece": [
+      "productos de bisutería o modelado para la fabricación mediante la impresión 3D"
+    ],
+    "telefono": "#",
     "weight": 31,
     "social_links": [
       {
         "name": "Facebook",
-        "url": "#"
+        "url": "https://www.facebook.com/profile.php?id=100088973191806&mibextid=ZbWKwL"
       },
       {
         "name": "Whatsapp",
-        "url": "https://api.whatsapp.com/send?phone=593994311263&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+        "url": "https://api.whatsapp.com/send?phone=593984534541&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
       },
       {
         "name": "Instagram",
-        "url": "#"
+        "url": "https://www.instagram.com/dope_wope?igsh=OTFlMWR2dm82N2Ix"
       }
     ],
-    "photo": [],
-    "description": "#",
-    "catalogo": "./assets/catalogs/CentrodeNeurodesarrolloyCuidadoInfantil.pdf"
+    "photo": [
+      "/images/catalogo/productos/KEVIN_ZUÑIGA/Producto_1.jpeg",
+      "/images/catalogo/productos/KEVIN_ZUÑIGA/Producto_2.jpeg",
+      "/images/catalogo/productos/KEVIN_ZUÑIGA/Producto_3.jpeg",
+      "/images/catalogo/productos/KEVIN_ZUÑIGA/Producto_4.jpeg"
+    ],
+    "description": "Dope Wope es un emprendimiento que se fundo en base a sueños pero los sueños solo son eso sueños, pero si los convertimos en metas cambian rápidamente su contexto. El diseño industrial es poco valorado en el Ecuador por lo que la misión es dar a conocer el diseño y su papel fundamental en el día a día, para ello empezamos con una línea de autos con inspiración nacional que se vende de manera virtual y presencial.",
+    "catalogo": "/catalogs/Catálogo de productos .pdf"
+  },
+  {
+    "name": "Tejidos MJ",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Michelle Jumbo",
+    "buscar": "Tejidos",
+    "ofrece": [
+      "amigurumis",
+      "sacos tejidos",
+      "tops tejidos",
+      "flores tejidas",
+      "gorras tejidas"
+    ],
+    "telefono": "#",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100076179451456&mibextid=ZbWKwL"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=593963254760&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/tejilos.mj?igsh=dDZpNnExbWJ4ZTJi"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@tejilos.mj?_t=8jKqWjGXTDK&_r=1"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/MICHELLE_JUMBO/Producto.jpeg",
+      "/images/catalogo/productos/MICHELLE_JUMBO/Proceso.jpeg",
+      "/images/catalogo/productos/MICHELLE_JUMBO/Emprendedor.jpeg"
+    ],
+    "description": "Diseño y confección de tejidos, amigurumis, manualidad y más, mi motivación siempre fue mis ganas de salir adelante mientras estudio por ello con lo que gano ayudo a mis padres en los gastos de la U, y de igual manera si se necesita algo en la casa, quiero llegar a tener mi taller o mi tienda de tejidos donde pueda dar clases a otras personas para que igual pueda emprender.",
+    "catalogo": "/catalogs/Tejidos MJ.pdf"
+  },
+  {
+    "name": "Dark Engine",
+    "category": "Servicios",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Rivas Alex",
+    "buscar": "Electromecánica",
+    "ofrece": ["Modificación de chasis de ordenador"],
+    "telefono": "+593986683526",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61552321484818"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=593986683526&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/darky.engine/"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@darkyengine"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/servicios/ALEX_RIVAS/Proceso_1.jpeg",
+      "/images/catalogo/servicios/ALEX_RIVAS/Proceso_2.jpeg",
+      "/images/catalogo/servicios/ALEX_RIVAS/Producto_1.jpeg",
+      "/images/catalogo/servicios/ALEX_RIVAS/Producto_2.jpeg",
+      "/images/catalogo/servicios/ALEX_RIVAS/Producto_3.jpeg",
+      "/images/catalogo/servicios/ALEX_RIVAS/Emprendedor.jpeg"
+    ],
+    "description": "Lo que hacemos es revivir esos viejos chasis de ordenador que están acumulando polvo en casa. Dándoles una nueva apariencia, tanto interna como externa ademas de priorizar la funcionalidad del mismo. En DarkEngine nos interesa darle una nueva oportunidad a aquellos computadores que nos han acompañado durante años. Además que al reutilizar los chasis viejos estamos aportando un granito de arena a disminuir la cantidad de chatarra que suele haber en los basureros del país.",
+    "catalogo": "./assets/catalogs/CatálogoRivasAlex.pdf"
+  },
+  {
+    "name": "Evine",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Alisson Farinango",
+    "buscar": "Costura",
+    "ofrece": ["Pijamas para damas", "batas para corte de honor de novias"],
+    "telefono": "+593986683526",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/pijamasevine"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=593990190822&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/invites/contact/?i=1r2zd1zn9ojgg&utm_content=nbu1xig"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://vm.tiktok.com/ZMNvuGN9j/"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/ALISON_FARINANGO/Producto_1.jpeg",
+      "/images/catalogo/productos/ALISON_FARINANGO/Producto_2.jpeg",
+      "/images/catalogo/productos/ALISON_FARINANGO/Producto_3.jpeg",
+      "/images/catalogo/productos/ALISON_FARINANGO/Producto_4.jpeg",
+      "/images/catalogo/productos/ALISON_FARINANGO/Emprendedor.jpeg"
+    ],
+    "description": "Evine es un emprendimiento que se dedica a la confección de lencería lencería fina de alta calidad, con un enfoque principal en la creación de pijamas para mujeres y batas para las damas de honor de una novia. Nuestro compromiso es fomentar el amor propio de las mujeres a través de productos personalizables en cuanto a diseño, textura, colores y tallas; ofreciendo una experiencia única y exclusiva.",
+    "catalogo": "/catalogs/Catalogo Nuevo_compressed.pdf"
+  },
+  {
+    "name": "Pastelería D'Raffa",
+    "category": "Productos",
+    "date": "2020-06-08T06:20:55+06:00",
+    "owner": "Jeimmy Nieto",
+    "buscar": "Pastelería",
+    "ofrece": ["pastelería de vanguardia", "pasteles personalizados"],
+    "telefono": "#",
+    "weight": 31,
+    "social_links": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100063570536546&mibextid=ZbWKwL"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=593982653162&text=Hola!%20quiero%20apoyar%20tu%20emprendimiento"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/draffa06?igsh=MTYydHc4dng1b210OQ=="
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@d.raffa6?_t=8jPfFJAJDnB&_r=1"
+      }
+    ],
+    "photo": [
+      "/images/catalogo/productos/JEIMMY_NIETO/Producto_1.jpeg",
+      "/images/catalogo/productos/JEIMMY_NIETO/Producto_2.jpeg",
+      "/images/catalogo/productos/JEIMMY_NIETO/Producto_3.jpeg",
+      "/images/catalogo/productos/JEIMMY_NIETO/Emprendedor.jpeg",
+      "/images/catalogo/productos/JEIMMY_NIETO/Emprendedor_1.jpeg"
+    ],
+    "description": "Hola, somos Jeimmy, Henry y Rafaella. Una familia amante de la repostería, y cocina trabajamos para llevar dulzura y delicadeza a cada uno de nuestros clientes. Nuestros productos están elaborados con los mejores ingredientes y con la mejor innovación. El Compartir es uno de nuestros grandes valores por lo que nuestra misión es lograr llevar dulzura y amor a cada uno de los hogares de nuestros clientes y de esa manera endulcen su estadía con todos sus seres queridos.",
+    "catalogo": "/catalogs/Catálogo DRaffa.pdf"
   }
 ]
