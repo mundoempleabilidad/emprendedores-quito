@@ -141,7 +141,10 @@ export const Home = () => {
           <div className="cards">
             {/* Mustra sólo tres emprendedores de mi elección en orden */}
             {data
-              .filter((emprendedor) => emprendedor.name === "Tapicería Classic")
+              .filter(
+                (emprendedor) =>
+                  emprendedor.name === "Costeñitas empanadas y más"
+              )
               .map((emprendedor) => (
                 <Emprendedor
                   key={emprendedor.name}
@@ -165,7 +168,7 @@ export const Home = () => {
                 />
               ))}
             {data
-              .filter((emprendedor) => emprendedor.name === "Costeñitas")
+              .filter((emprendedor) => emprendedor.name === "Fotografiarte")
               .map((emprendedor) => (
                 <Emprendedor
                   key={emprendedor.name}
