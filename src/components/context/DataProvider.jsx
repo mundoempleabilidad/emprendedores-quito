@@ -13,20 +13,13 @@ export const DataProvider = ({ children }) => {
     setData(Data);
   }, []);
 
-  const searchName = (searchTerm) => {
-    const filteredData = Data.filter((emprendedor) =>
-      emprendedor.name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    setData(filteredData);
-  };
-
   const filterCategory = (selectedCategory) => {
     if (selectedCategory === "All categories") {
       setData(Data);
     } else {
       const filteredData = Data.filter(
         (emprendedor) =>
-          emprendedor.category.toLowerCase() === selectedCategory.toLowerCase()
+          emprendedor.buscar.toLowerCase() === selectedCategory.toLowerCase()
       );
       setData(filteredData);
     }
@@ -41,7 +34,6 @@ export const DataProvider = ({ children }) => {
     data,
     name: [name, setName],
     category: [category, setCategory],
-    searchName,
     filterCategory,
     resetData,
   };
@@ -52,4 +44,3 @@ export const DataProvider = ({ children }) => {
 DataProvider.propTypes = {
   children: PropTypes.node.isRequired,
 };
-
