@@ -151,11 +151,11 @@
       }
     ],
     "photo": [
-      "/images/catalogo/productos/MARILYN_BARCIA/Emprendedor.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/Producto.jpeg",
       "/images/catalogo/productos/MARILYN_BARCIA/Mujer.jpeg",
       "/images/catalogo/productos/MARILYN_BARCIA/Proceso.jpeg",
-      "/images/catalogo/productos/MARILYN_BARCIA/Producto.jpeg",
-      "/images/catalogo/productos/MARILYN_BARCIA/toys.jpeg"
+      "/images/catalogo/productos/MARILYN_BARCIA/toys.jpeg",
+      "/images/catalogo/productos/MARILYN_BARCIA/Emprendedor.jpeg"
     ],
     "description": "Crochet Art surgió de mi deseo de superación en casa, aprovechando los conocimientos previos transmitidos por mi madre, los cuales adquirimos en la iglesia a la que asistimos. Este proyecto se convirtió en una vía para enfrentar la difícil situación económica en mi hogar durante la pandemia. Comencé creando amigurumis y luego amplié nuestra oferta con prendas de vestir, contribuyendo así a mejorar nuestra situación financiera.",
     "catalogo": "../catalogs/Catálogo Croshet Art.pdf"
@@ -188,12 +188,12 @@
       }
     ],
     "photo": [
-      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_1.jpg",
-      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_2.jpg",
-      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_3.jpg",
-      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_4.jpg",
-      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_5.jpg",
-      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_6.jpg"
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_1.jpeg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_2.jpeg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_3.jpeg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_4.jpeg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_5.jpeg",
+      "/images/catalogo/servicios/JAIR_MUÑOZ/Producto_6.jpeg"
     ],
     "description": "Mi emprendimiento ofrece servicios de barbería y peluquería para hombres, utilizando técnicas personalizadas a domicilio. Nuestra principal meta es brindar a las personas la oportunidad de recibir estos servicios desde la comodidad de sus hogares. Adaptándonos a los horarios de nuestros clientes mediante citas previas, buscamos facilitar el acceso a servicios de barbería, permitiendo a las personas cumplir con sus actividades diarias sin contratiempos",
     "catalogo": "../catalogs/Folleto Tríptico Peluquería Barbería Elegante Clásico Negro.pdf"
@@ -261,9 +261,9 @@
       }
     ],
     "photo": [
-      "/images/catalogo/productos/PENELOPE_DONOSO/Producto.jpeg",
-      "/images/catalogo/productos/PENELOPE_DONOSO/Proceso.jpeg",
-      "/images/catalogo/productos/PENELOPE_DONOSO/Emprendedor.jpeg"
+      "/images/catalogo/servicios/PENELOPE_DONOSO/Producto.jpeg",
+      "/images/catalogo/servicios/PENELOPE_DONOSO/Proceso.jpeg",
+      "/images/catalogo/servicios/PENELOPE_DONOSO/Emprendedor.jpeg"
     ],
     "description": "En nuestro emprendimiento, buscamos generar alegría y bienestar, con la motivación de devolver sonrisas a las personas. Nos esforzamos por ser reconocidos en todo Ecuador como un laboratorio dental de prestigio, destacando por la satisfacción del cliente, la efectividad y la calidad en todos nuestros trabajos. Elaboramos todo lo que son: férulas dentales, paratos dentales y prótesis removibles de acrílico.",
     "catalogo": "#"
@@ -292,10 +292,10 @@
       }
     ],
     "photo": [
-      "/images/catalogo/productos/GENESIS_QUISANCHALA/Proceso.jpeg",
-      "/images/catalogo/productos/GENESIS_QUISANCHALA/Producto_1.jpeg",
-      "/images/catalogo/productos/GENESIS_QUISANCHALA/Producto_2.jpeg",
-      "/images/catalogo/productos/GENESIS_QUISANCHALA/Producto_3.jpeg"
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Proceso.jpeg",
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_1.jpeg",
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_2.jpeg",
+      "/images/catalogo/servicios/GENESIS_QUISTANCHALA/Producto_3.jpeg"
     ],
     "description": "Somos las creadoras de estilos únicos, destacando la esencia y belleza de tu ergonomía para que te sientas auténtico. Con esta iniciativa, buscamos ser líderes en la venta de ropa original, estableciendo nuestras propias cadenas y proporcionando cada día más que un excelente servicio. Nos comprometemos a ofrecer calidad en nuestros productos, permitiéndonos competir en el mercado nacional con los mejores precios, no solo en términos económicos, sino también en la calidad que brindamos. Buscamos satisfacer tus necesidades y exigencias, abarcando tus gustos de acuerdo con tu estilo de ver y vivir la vida.",
     "catalogo": "./assets/catalogs/Multi Confession.pdf"
@@ -333,10 +333,10 @@
       }
     ],
     "photo": [
-      "/images/catalogo/productos/MELANI_MILA/Proceso.jpeg",
-      "/images/catalogo/productos/MELANI_MILA/Proceso_1.jpeg",
-      "/images/catalogo/productos/MELANI_MILA/Producto.jpeg",
-      "/images/catalogo/productos/MELANI_MILA/emprendedor.jpeg"
+      "/images/catalogo/productos/MELANY_MILA/Proceso.jpeg",
+      "/images/catalogo/productos/MELANY_MILA/Proceso_1.jpeg",
+      "/images/catalogo/productos/MELANY_MILA/Producto.jpeg",
+      "/images/catalogo/productos/MELANY_MILA/emprendedor.jpeg"
     ],
     "description": "Este emprendimiento colaborativo surgió de la amistad entre dos jóvenes de centros comunitarios, quienes hoy están decididas a hacer realidad un sueño. Musa de las Flores opera como un negocio en línea, especializado en la personalización de regalos para cualquier ocasión, con el propósito de arrancarle una sonrisa a tu persona",
     "catalogo": "./assets/catalogs/MusadelasFlowers.pdf"
@@ -409,7 +409,7 @@
       }
     ],
     "photo": [
-      "/images/catalogo/productos/MICHELLE_JUMBO/Producto.jpeg",
+      "/images/catalogo/productos/MICHELLE_JUMBO/Producto.jpg",
       "/images/catalogo/productos/MICHELLE_JUMBO/Proceso.jpeg",
       "/images/catalogo/productos/MICHELLE_JUMBO/Emprendedor.jpeg"
     ],
@@ -421,7 +421,7 @@
     "category": "Servicios",
     "date": "2020-06-08T06:20:55+06:00",
     "owner": "Rivas Alex",
-    "buscar": "Electromecánica",
+    "buscar": "Electrónica",
     "ofrece": ["Modificación de chasis de ordenador"],
     "telefono": "+593986683526",
     "weight": 31,
@@ -444,11 +444,11 @@
       }
     ],
     "photo": [
+      "/images/catalogo/servicios/ALEX_RIVAS/Producto_3.jpeg",
       "/images/catalogo/servicios/ALEX_RIVAS/Proceso_1.jpeg",
       "/images/catalogo/servicios/ALEX_RIVAS/Proceso_2.jpeg",
       "/images/catalogo/servicios/ALEX_RIVAS/Producto_1.jpeg",
       "/images/catalogo/servicios/ALEX_RIVAS/Producto_2.jpeg",
-      "/images/catalogo/servicios/ALEX_RIVAS/Producto_3.jpeg",
       "/images/catalogo/servicios/ALEX_RIVAS/Emprendedor.jpeg"
     ],
     "description": "Lo que hacemos es revivir esos viejos chasis de ordenador que están acumulando polvo en casa. Dándoles una nueva apariencia, tanto interna como externa ademas de priorizar la funcionalidad del mismo. En DarkEngine nos interesa darle una nueva oportunidad a aquellos computadores que nos han acompañado durante años. Además que al reutilizar los chasis viejos estamos aportando un granito de arena a disminuir la cantidad de chatarra que suele haber en los basureros del país.",
