@@ -1,5 +1,5 @@
 import { Navbar, Nav, Container } from "react-bootstrap";
-import DarkLogo from "../assets/images/logos/Color-transparent.svg";
+import DarkLogo from "../assets/images/logos/Color-transparent.png";
 import { Sidebar } from "./Sidebar";
 
 
