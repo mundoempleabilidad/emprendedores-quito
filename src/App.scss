@@ -867,9 +867,10 @@ form,
   @media (max-width: 768px) {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     margin: 0;
     padding: 0;
+    flex-wrap: wrap;
   }
   .ofrece__title {
     font-weight: bold;
