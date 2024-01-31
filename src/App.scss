@@ -292,12 +292,12 @@ body {
 
 .greeting {
   position: relative;
-  left: -200px;
+  left: -250px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  font-size: 23pt;
+  font-size: 40px;
   @media (max-width: 768px) {
     position: relative;
     left: 0;
@@ -321,7 +321,7 @@ body {
 .typing_carousel-data {
   position: relative;
   top: 90px;
-  left: -210px;
+  left: -260px;
   list-style: none;
   font-size: 18pt;
   @media (max-width: 768px) {
