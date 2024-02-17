@@ -168,7 +168,7 @@ export const Home = () => {
                 />
               ))}
             {data
-              .filter((emprendedor) => emprendedor.name === "Fotografiarte")
+              .filter((emprendedor) => emprendedor.name === "OceanStudio")
               .map((emprendedor) => (
                 <Emprendedor
                   key={emprendedor.name}
