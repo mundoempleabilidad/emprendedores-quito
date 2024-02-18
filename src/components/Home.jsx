@@ -60,17 +60,18 @@ export const Home = () => {
         <section className="nosotros" id="nosotros">
           <div className="intro">
             <div className="text">
-              <h3 className="title">Directorio de EMPRENDEDORES</h3>
-              <h5 className="subtitle">
+              <h1 className="title">Directorio de EMPRENDEDORES</h1>
+              <h2 className="subtitle">
                 Un producto de{" "}
                 <a
                   href="https://www.children.org/es"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Visitar la página de Children International en una nueva ventana"
                 >
                   CHILDREN INTERNATIONAL
                 </a>
-              </h5>
+              </h2>
               <p className="description">
                 Ecuador es reconocido como uno de los países más emprendedores
                 de la región, pero lastimosamente también es uno de los países
@@ -94,6 +95,7 @@ export const Home = () => {
                 href="https://www.facebook.com/childrenecuador"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de Facebook de Children Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faFacebook} />
               </a>
@@ -103,6 +105,7 @@ export const Home = () => {
                 href="https://twitter.com/childrenecuador"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de Twitter de Children Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faTwitter} />
               </a>
@@ -112,6 +115,7 @@ export const Home = () => {
                 href="https://www.instagram.com/childrenecuador/"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de Instagram de Children Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faInstagram} />
               </a>
@@ -121,6 +125,7 @@ export const Home = () => {
                 href="https://www.linkedin.com/company/children-international-ecuador"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de LinkedIn de Children International Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faLinkedin} />
               </a>
@@ -131,6 +136,7 @@ export const Home = () => {
               href="https://www.children.org/es/donate"
               target="_blank"
               rel="noreferrer"
+              aria-label="Realizar una donación a Children International en una nueva ventana"
             >
               Realiza una Donación
             </a>
@@ -141,7 +147,10 @@ export const Home = () => {
           <div className="cards">
             {/* Mustra sólo tres emprendedores de mi elección en orden */}
             {data
-              .filter((emprendedor) => emprendedor.name === "Tapicería Classic")
+              .filter(
+                (emprendedor) =>
+                  emprendedor.name === "Costeñitas empanadas y más"
+              )
               .map((emprendedor) => (
                 <Emprendedor
                   key={emprendedor.name}
@@ -165,7 +174,7 @@ export const Home = () => {
                 />
               ))}
             {data
-              .filter((emprendedor) => emprendedor.name === "Costeñitas")
+              .filter((emprendedor) => emprendedor.name === "OceanStudio")
               .map((emprendedor) => (
                 <Emprendedor
                   key={emprendedor.name}

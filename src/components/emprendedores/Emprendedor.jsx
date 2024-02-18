@@ -26,7 +26,7 @@ export const Emprendedor = ({ name, photo, description }) => {
         {renderImages()}
         <div className="emprendedor__info">
           <div className="emprendedor__name">
-            <h5>{name}</h5>
+            <h3>{name}</h3>
           </div>
           <p className="emprendedor__description">{description}</p>
         </div>
