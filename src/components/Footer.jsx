@@ -36,7 +36,7 @@ export const Footer = () => {
     <section className="footer-section">
       <div className="footer">
         <div className="navegacion">
-          <h5>Navegación</h5>
+          <h4>Navegación</h4>
           <ul>
             <li>
               <a href="#nosotros">Quiénes Somos</a>

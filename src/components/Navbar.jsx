@@ -68,13 +68,13 @@ function ColorSchemesExample() {
           fixed="top"
         >
           <Container>
-            <Navbar.Brand href="/">
+            <Navbar.Brand href="/" aria-label="Mundo Empleabilidad">
               <img
-                alt="Mundo Empleabilidad"
                 src={DarkLogo}
                 width="200"
                 height="auto"
                 className="d-inline-block align-top"
+                alt="Mundo Empleabilidad"
               />
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav-light" />

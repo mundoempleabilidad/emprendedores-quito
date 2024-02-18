@@ -67,6 +67,7 @@ export const Home = () => {
                   href="https://www.children.org/es"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Visitar la página de Children International en una nueva ventana"
                 >
                   CHILDREN INTERNATIONAL
                 </a>
@@ -94,6 +95,7 @@ export const Home = () => {
                 href="https://www.facebook.com/childrenecuador"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de Facebook de Children Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faFacebook} />
               </a>
@@ -103,6 +105,7 @@ export const Home = () => {
                 href="https://twitter.com/childrenecuador"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de Twitter de Children Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faTwitter} />
               </a>
@@ -112,6 +115,7 @@ export const Home = () => {
                 href="https://www.instagram.com/childrenecuador/"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de Instagram de Children Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faInstagram} />
               </a>
@@ -121,6 +125,7 @@ export const Home = () => {
                 href="https://www.linkedin.com/company/children-international-ecuador"
                 target="_blank"
                 rel="noreferrer"
+                aria-label="Visitar la página de LinkedIn de Children International Ecuador en una nueva ventana"
               >
                 <FontAwesomeIcon icon={faLinkedin} />
               </a>
@@ -131,6 +136,7 @@ export const Home = () => {
               href="https://www.children.org/es/donate"
               target="_blank"
               rel="noreferrer"
+              aria-label="Realizar una donación a Children International en una nueva ventana"
             >
               Realiza una Donación
             </a>
