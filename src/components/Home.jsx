@@ -60,8 +60,8 @@ export const Home = () => {
         <section className="nosotros" id="nosotros">
           <div className="intro">
             <div className="text">
-              <h3 className="title">Directorio de EMPRENDEDORES</h3>
-              <h5 className="subtitle">
+              <h1 className="title">Directorio de EMPRENDEDORES</h1>
+              <h2 className="subtitle">
                 Un producto de{" "}
                 <a
                   href="https://www.children.org/es"
@@ -70,7 +70,7 @@ export const Home = () => {
                 >
                   CHILDREN INTERNATIONAL
                 </a>
-              </h5>
+              </h2>
               <p className="description">
                 Ecuador es reconocido como uno de los países más emprendedores
                 de la región, pero lastimosamente también es uno de los países

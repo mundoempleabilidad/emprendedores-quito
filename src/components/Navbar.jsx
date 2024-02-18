@@ -70,7 +70,7 @@ function ColorSchemesExample() {
           <Container>
             <Navbar.Brand href="/">
               <img
-                alt=""
+                alt="Mundo Empleabilidad"
                 src={DarkLogo}
                 width="200"
                 height="auto"
