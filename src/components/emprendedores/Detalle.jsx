@@ -49,7 +49,6 @@ export const Detalle = () => {
                 src={image}
                 alt={`${detalle.name} - ${index}`}
               />
-              <h3 className="details__name">{detalle.name}</h3>
             </Carousel.Item>
           ))}
         </Carousel>
